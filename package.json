@@ -6,6 +6,9 @@
   "scripts": {
     "dev": "nodemon ."
   },
+  "engines": {
+    "node": ">=22.0.0"
+  },
   "dependencies": {
     "canvas": "^3.1.0",
     "chalk": "4.0.0",
